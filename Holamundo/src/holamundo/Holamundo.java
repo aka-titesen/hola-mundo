@@ -5,7 +5,7 @@ public class Holamundo {
     public static void main(String[] args) {
         System.out.println("Hola mundo");
         
-        System.out.println("Ésto es el log in");
+        System.out.println("Ésto es el log in hecho por Facundo");
     }
 
 }
